@@ -79,7 +79,7 @@ EEP_AIMicrobrain_Project/
 
 🧠 Attribution
 
-This project, the Embedding Emergence Phenomenon (EEP), and the first live proof of meaning arising through relational loss were conceptualized, developed, and demonstrated by [Your Name] on April 9, 2025.
+This project, the Embedding Emergence Phenomenon (EEP), and the first live proof of meaning arising through relational loss were conceptualized, developed, and demonstrated by [Walter Lettau] on April 9, 2025.
 
 ⸻
 
