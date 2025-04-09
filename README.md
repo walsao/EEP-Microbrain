@@ -1,5 +1,7 @@
 # EEP-Microbrain
+
 ![EEP Verified Project](https://img.shields.io/badge/EEP-Verified%20Emergent%20Project-brightgreen)
+
 Simulating the spontaneous emergence of meaning from relational loss — the first demonstration of the Embedding Emergence Phenomenon (EEP)
 
 🧠 EEP-AI Microbrain: Meaning from Pure Relational Loss
