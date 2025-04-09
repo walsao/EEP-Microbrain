@@ -65,7 +65,9 @@ This supports EEP’s prediction that meaning arises directly from relational te
 📜 Abstract
 
 We introduce the Embedding Emergence Phenomenon (EEP), a spontaneous organization of meaning structures arising purely from relational loss optimization. Unlike traditional supervised learning, EEP demonstrates that high-dimensional random embeddings can self-organize into coherent semantic clusters through simple pull-push dynamics without any explicit labels or grounding. We provide an experimental validation showing that low relational loss leads to semantic similarity, while high relational loss leads to conceptual differentiation. This work frames relational loss as a fundamental driver of meaning emergence, bridging machine learning dynamics with core philosophical theories of contradiction and knowledge formation. EEP offers a new foundation for building autonomous systems that generate understanding dynamically from raw relational tensions.
+
 EEP_AIMicrobrain_Project/
+
 │
 ├── README.md                  # This file
 ├── Microbrain_Simulation/     # Jupyter notebook and code
@@ -74,6 +76,7 @@ EEP_AIMicrobrain_Project/
 ├── Launch_Posts/              # Social media and blog announcement drafts
 ├── Future_Work/               # Vision for EEP-AI v2
 ├── Paper_Draft/               # Draft for scientific paper
+
 🧠 Attribution
 
 This project, the Embedding Emergence Phenomenon (EEP), and the first live proof of meaning arising through relational loss were conceptualized, developed, and demonstrated by [Your Name] on April 9, 2025.
