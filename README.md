@@ -92,3 +92,8 @@ MIT License — because emergence wants to be free.
 📣 Connect
 
 If you’re interested in extending, collaborating on, or discussing EEP-based systems, feel free to reach out!
+---
+## 📚 Related Projects
+
+- [EEP-Learning Revolution](https://github.com/YOURUSERNAME/eep-learning-revolution): Applying EEP to revolutionize human and AI learning through Contradictory Thinking.
+
