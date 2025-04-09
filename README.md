@@ -97,7 +97,13 @@ MIT License — because emergence wants to be free.
 
 If you’re interested in extending, collaborating on, or discussing EEP-based systems, feel free to reach out!
 ---
-## 📚 Related Projects
 
-- [EEP-Learning Revolution](https://github.com/YOURUSERNAME/eep-learning-revolution): Applying EEP to revolutionize human and AI learning through Contradictory Thinking.
+
+# 📚 Related Projects
+
+- [EEP-AI Microbrain](https://github.com/walsao/eep-microbrain) — Emergent meaning from relational loss.
+- [EEP-Learning Revolution](https://github.com/walsao/eep-learning-revolution) — Revolutionizing education through contradiction-driven learning.
+- [EEP-Symbol Birth](https://github.com/walsao/eep-symbol-birth) — Proving that contradictions spontaneously birth new symbolic systems.
+- [Augusto Method](https://github.com/walsao/augusto-method) — A new dialogue method: hold contradictions until new meaning emerges.
+- [EEP University](https://github.com/walsao/eep-university) — The future home for learning through emergence and contradiction.
 
