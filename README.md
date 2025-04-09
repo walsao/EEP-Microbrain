@@ -1,6 +1,9 @@
 # EEP-Microbrain
 Simulating the spontaneous emergence of meaning from relational loss — the first demonstration of the Embedding Emergence Phenomenon (EEP).
 
+![image](https://github.com/user-attachments/assets/08b2c705-5457-4763-ac6b-a7e1e8adf939)
+
+
 🧠 EEP-AI Microbrain: Meaning from Pure Relational Loss
 
 “From chaos comes meaning.”
