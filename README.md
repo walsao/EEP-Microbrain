@@ -87,9 +87,7 @@ This project, the Embedding Emergence Phenomenon (EEP), and the first live proof
 
 ⸻
 
-🧠 License
-
-MIT License — because emergence wants to be free.
+📜 License This project is licensed under the MIT License — feel free to use, modify, and expand upon it.
 
 ⸻
 
